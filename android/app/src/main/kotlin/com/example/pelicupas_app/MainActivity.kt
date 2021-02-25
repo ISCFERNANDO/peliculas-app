@@ -1,4 +1,4 @@
-package com.example.pelicupas_app
+package com.lprudencio.movie_app
 
 import io.flutter.embedding.android.FlutterActivity
 
